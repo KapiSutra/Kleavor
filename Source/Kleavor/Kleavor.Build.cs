@@ -34,7 +34,8 @@ public class Kleavor : ModuleRules
 				"Scizor",
 				"Gengar",
 				"GameplayAbilities",
-				"EnhancedInput"
+				"EnhancedInput",
+				"StateTreeModule"
 			}
 		);
 
